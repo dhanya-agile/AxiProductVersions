@@ -1,0 +1,20 @@
+{
+  "ManagerType": "Product",
+  "Products": [
+    {
+      "ProductName": "AxiTest CRM 60",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-11-10T07:39:21Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "AxiTest",
+        "CRM",
+        "60"
+      ],
+      "Category": "Enterprise"
+    }
+  ]
+}
