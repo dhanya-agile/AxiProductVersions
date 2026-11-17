@@ -30,6 +30,21 @@
         "02"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "New-CRM_03",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-11-17T13:11:53Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "New",
+        "CRM",
+        "03"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
