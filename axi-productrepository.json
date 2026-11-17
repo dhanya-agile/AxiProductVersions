@@ -75,6 +75,21 @@
         "04"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "New-crm_05",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-11-17T13:33:44Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "New",
+        "crm",
+        "05"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
