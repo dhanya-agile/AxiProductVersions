@@ -1,0 +1,20 @@
+{
+  "ManagerType": "productversion",
+  "Products": [
+    {
+      "ProductName": "New Product 02",
+      "ProductDescription": "This is New Prod 02",
+      "ProductVersion": "1",
+      "ProductAuthor": "dhanya",
+      "ProductCreatedOn": "2026-11-27T13:23:43Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "New",
+        "Product",
+        "02"
+      ],
+      "Category": "Enterprise"
+    }
+  ]
+}
