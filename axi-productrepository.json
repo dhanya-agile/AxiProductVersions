@@ -222,6 +222,22 @@
         "02"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Erp Product Version 03",
+      "ProductDescription": "Erp Product Version 03",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-11-27T11:50:30Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Erp",
+        "Product",
+        "Version",
+        "03"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
