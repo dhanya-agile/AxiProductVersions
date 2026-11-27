@@ -90,6 +90,20 @@
         "05"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Export PlgTest",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "dhanya",
+      "ProductCreatedOn": "2026-11-27T08:44:54Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Export",
+        "PlgTest"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
