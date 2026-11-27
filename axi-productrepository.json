@@ -161,6 +161,19 @@
         "2"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "ExportPluginsTest",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "tamilarasan",
+      "ProductCreatedOn": "2026-11-27T09:30:08Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ExportPluginsTest"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
