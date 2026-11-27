@@ -104,6 +104,20 @@
         "PlgTest"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Export Test",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-11-27T08:50:31Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Export",
+        "Test"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
