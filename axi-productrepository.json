@@ -146,6 +146,21 @@
         "Test"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Export Test 2",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "tamilarasan",
+      "ProductCreatedOn": "2026-11-27T09:12:16Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Export",
+        "Test",
+        "2"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
