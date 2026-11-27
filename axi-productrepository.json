@@ -238,6 +238,21 @@
         "03"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "New Product 01",
+      "ProductDescription": "THis is new prodt1",
+      "ProductVersion": "1",
+      "ProductAuthor": "dhanya",
+      "ProductCreatedOn": "2026-11-27T13:07:20Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "New",
+        "Product",
+        "01"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
