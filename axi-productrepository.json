@@ -118,6 +118,20 @@
         "Test"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Export Test",
+      "ProductDescription": "",
+      "ProductVersion": "2",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-11-27T08:53:59Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Export",
+        "Test"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
